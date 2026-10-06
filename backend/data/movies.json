@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "genre": "Sci-Fi",
+    "year": 2010,
+    "rating": 8.8,
+    "duration": "2h 28m",
+    "poster": "https://via.placeholder.com/500x750?text=Inception",
+    "description": "A skilled thief enters the dreams of others."
+  },
+  {
+    "id": 2,
+    "title": "Interstellar",
+    "genre": "Sci-Fi",
+    "year": 2014,
+    "rating": 8.7,
+    "duration": "2h 49m",
+    "poster": "https://via.placeholder.com/500x750?text=Interstellar",
+    "description": "Explorers travel through a wormhole in search of a new home."
+  }
+]
